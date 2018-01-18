@@ -23,3 +23,5 @@ So many layers: it’s why so many people want to pay Matlab (etc) to manage the
       i. launch jupyter notebook successfully
       ii. take a peek at the Cartopy notebook on your local machine (viewable here). Execute, adjust, see map results! It is viewable at https://github.com/Unidata/unidata-python-workshop/blob/master/notebooks/CartoPy/CartoPy.ipynb, but you will work with your own copy that you’ll have downloaded. 
 
+## extra: add image, look at the syntax in the editor 
+![alt text](http://images.mentalfloss.com/sites/default/files/styles/mf_image_3x2/public/istock-511366776.jpg?itok=ZUMmltnb&resize=1100x740)
