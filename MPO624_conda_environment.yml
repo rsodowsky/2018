@@ -27,3 +27,5 @@
      - python-awips
      - mpldatacursor
      - drilsdown
+     - paramiko
+     - wrf-python
