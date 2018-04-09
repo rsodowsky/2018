@@ -27,11 +27,16 @@
    - iris
    - pip
    - ffmpeg
+   - imageio
    - pytest
    - ipywidgets
    - pip:
      - python-awips
      - mpldatacursor
      - drilsdown
+<<<<<<< HEAD
      - paramiko
      - wrf-python
+=======
+     - opencv-python
+>>>>>>> MPOcanes/master
